@@ -1,0 +1,22 @@
+{
+  "name": "amzn1.ask.skill.53ad48cd-b234-4841-87f8-c98bcca6c42b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samkria96/Eric-alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samkria96/Eric-alexa/issues"
+  },
+  "homepage": "https://github.com/Samkria96/Eric-alexa#readme",
+  "dependencies": {
+    "i18next": "^10.6.0"
+  }
+}
